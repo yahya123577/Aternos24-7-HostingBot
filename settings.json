@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "YahyaServer1.aternos.me:21369",
+    "port": 21369,
     "version": "",
     "try-creative": false
   },
